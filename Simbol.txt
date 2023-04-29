@@ -27,5 +27,3 @@ Dia (tono) pergi.
 Dia [tono] pergi.
 
 Dia {tono} pergi.
-
-Dia <tono> pergi.
